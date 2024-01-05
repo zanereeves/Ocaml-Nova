@@ -1,0 +1,5 @@
+# dune init project OcamlNova
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Workspace root: /Users/zanereeves/OcamlNova
+# Auto-detected concurrency: 8
